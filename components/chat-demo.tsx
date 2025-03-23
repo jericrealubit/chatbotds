@@ -31,9 +31,9 @@ export function ChatDemo(props: ChatDemoProps) {
         stop={stop}
         append={append}
         suggestions={[
-          "Generate a tasty vegan lasagna recipe for 3 people.",
-          "Generate a list of 5 questions for a job interview for a software engineer.",
-          "Who won the 2022 FIFA World Cup?",
+          "How to lose weight?",
+          "How to make money?",
+          "How long to boil eggs?",
         ]}
       />
     </div>
